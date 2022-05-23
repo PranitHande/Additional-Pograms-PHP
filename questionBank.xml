@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Question>
+  <Category type="easy">
+    <Description>Highest mountain</Description>
+    <OptionA>MtEve</OptionA>
+    <OptionB>K2</OptionB>
+    <OptionC>Aple</OptionC>
+    <OptionD>Kalsubai</OptionD>
+    <Answer>MtEverest</Answer>
+  </Category>
+  <Category type="Hard">
+    <Description>Richest Man</Description>
+    <OptionA>Bezos</OptionA>
+    <OptionB>Elonmusk</OptionB>
+    <OptionC>Pranit</OptionC>
+    <OptionD>Adani</OptionD>
+    <Answer>Pranit</Answer>
+  </Category>
+  <Category type="Medium">
+    <Description>Best Song</Description>
+    <OptionA>Ease off</OptionA>
+    <OptionB>Easy on Me</OptionB>
+    <OptionC>Monster</OptionC>
+    <OptionD>1000 Miles</OptionD>
+    <Answer>Monster</Answer>
+  </Category>
+</Question>
