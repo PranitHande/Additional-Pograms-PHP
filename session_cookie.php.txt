@@ -1,0 +1,15 @@
+<?php
+	if(isiset($_COOKIE['cnt']))
+{
+	$x=$_COOKIE['cnt'];
+	$x=$x+1;
+	setcookie('cnt',$x);
+}
+	else
+{
+
+	setcookie('cnt',2);
+	echo"You accesed this page first time";
+}
+	echo"YOu have accessed this page $x times";
+?>
